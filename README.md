@@ -53,3 +53,5 @@ El conteo esperado es `100000`. Guarda una captura real de la consulta y el resu
 Crea un repositorio público, sube los archivos anteriores y no incluyas `.env`. Realiza al menos cinco commits reales durante el desarrollo, por ejemplo: estructura inicial, dependencias, modelo, generación de registros y documentación/verificación.
 
 Proyecto académico de generación de datos ficticios con Python y MySQL.
+
+Instrucciones de configuración y ejecución del proyecto.
